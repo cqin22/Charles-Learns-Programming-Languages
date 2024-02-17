@@ -4,7 +4,7 @@ Java,
 Prolog,
 Python,
 Scheme,
-Rust,
+Rust
 
 Paradigms:
 Functional Programming,
@@ -21,4 +21,4 @@ Runtime Systems,
 Language Pragmatics,
 Concurrency and Parallelism,
 Advanced Programming Constructs,
-Formal Semantics,
+Formal Semantics
